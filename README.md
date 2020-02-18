@@ -5,7 +5,7 @@
 
 ## Rocketseat
 
-# :rocket: Módulo 2: Iniciando o back-end do GoBarber
+# :rocket: Backend GoBarber
 
 ## Version
 
